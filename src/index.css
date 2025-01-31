@@ -4,7 +4,8 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #030014;
+  --color-primary: #0a0a0a
+  ;
 
   --color-light-100: #cecefb;
   --color-light-200: #a8b5db;
@@ -143,7 +144,10 @@
 }
 
 @utility text-gradient {
-  @apply bg-linear-to-r from-[#D6C7FF] to-[#AB8BFF] bg-clip-text text-transparent;
+  @apply bg-linear-to-r from-[#9b59b6] to-[#e74c3c] bg-clip-text text-transparent;
+}
+@utility text-gradient2 {
+  @apply bg-linear-to-r from-[#9b59b6] via-[#e74c3c] to-[#2ecc71] bg-clip-text text-transparent;
 }
 
 @utility fancy-text {
