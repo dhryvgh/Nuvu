@@ -1,4 +1,4 @@
-# Nuvu
+# Nuvu - A React Movie Discovery Platform
 
 A movie search application that allows users to search for movies and view trending movies. This app integrates the TMDB API for movie data and utilizes Appwrite for backend services, providing real-time updates.
 
