@@ -85,7 +85,7 @@ const App = () => {
       <div className="wrapper">
         <header>
           <h1 className="text-gradient2">
-            ★ Nu<span className="text-white">Vu</span>
+            ★ Nu<span className="text-white">vu</span>
           </h1>
 
           <img src="./hero-img.png" alt="Hero Banner" />
