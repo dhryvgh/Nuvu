@@ -1,4 +1,4 @@
-# KinoWatch
+# Nuvu
 
 A movie search application that allows users to search for movies and view trending movies. This app integrates the TMDB API for movie data and utilizes Appwrite for backend services, providing real-time updates.
 
@@ -20,12 +20,12 @@ A movie search application that allows users to search for movies and view trend
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/movie-search-app.git
+   git clone https://github.com/your-username/Nuvu.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd movie-search-app
+   cd Nuvu
    ```
 
 3. Install the dependencies:
